@@ -57,6 +57,11 @@ ID   SPAM name	Crop name
 #########Note that some of these crops are not provided (e.g. crop groups, such as 'rest of crops' or 'other vegetables', and those not grown in a given country), as described in the journal article these data accompany.
 
 ###########################
+# SUPPORTING INFORMATION TABLE S9.1:
+
+TOR_TRP_Individual_Crops.xls - values of trade-off risk and total risk potential per crop 
+
+###########################
 # R SCRIPTS:
 
 0_Trade_Data_Read_In.R - this script shows how I read in trade data provided by Dr C Dalin (method to create data from FAOSTAT described in Kastner et al. 2911 and Dalin et al., 2017)
